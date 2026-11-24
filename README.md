@@ -37,6 +37,7 @@ concerns*), de modo que cada servicio se centra solo en su lógica de negocio.
 │       ├── config/
 │       └── tests/
 └── docs/                          # Documentación del proyecto
+    └── criterios-calidad-costos/    # Criterios de calidad, defectos, costos e indicadores
 ```
 
 > Los archivos `.gitkeep` solo existen para que Git versione las carpetas vacías.
