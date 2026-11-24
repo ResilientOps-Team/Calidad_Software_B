@@ -1,0 +1,4 @@
+fecha,periodo,integrante,actividad,categoria,componente,horas,costo_hora,costos_directos,costo_total,defecto_relacionado
+2026-11-03,Iteracion-1,integrante-1,Definicion de requisitos RNF,Prevencion,docs,4,10,0,40,
+2026-11-05,Iteracion-1,integrante-2,Revision de codigo del modulo de seguridad,Evaluacion,chassis/cross-cutting/security,2,10,0,20,
+2026-11-11,Iteracion-1,integrante-1,Correccion de validacion de token,Fallo interno,chassis/cross-cutting/security,6,10,0,60,DEF-2026-014

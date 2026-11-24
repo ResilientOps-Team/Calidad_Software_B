@@ -1,0 +1,2 @@
+id,titulo,descripcion,componente,etapa_origen,etapa_deteccion,tipo,severidad,prioridad,alcance,puntaje_impacto,requisito_afectado,estado,fecha_deteccion,fecha_cierre,horas_correccion,causa_raiz,detectado_por
+DEF-2026-014,Token expirado es aceptado por la API,"Enviar petición con token cuyo exp ya pasó; esperado 401, obtenido 200",chassis/cross-cutting/security,E3,E5,Seguridad,Critica,P1,Chasis,30,RNF-SEG-01,Cerrado,2026-11-10,2026-11-12,6,No se validaba el claim exp; faltaba prueba unitaria,Prueba de integracion
